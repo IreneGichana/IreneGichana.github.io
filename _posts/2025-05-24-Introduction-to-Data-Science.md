@@ -1,9 +1,9 @@
 ---
 title: "Introduction to Data Science"
 date: 2025-05-24
-categories: [Data, Data Science, Data Analyst]
-tags: [Data, Data Science, AI]
-description: "Introduction to Data Science"
+categories: [Data,DataScience,DataAnalyst]
+tags: [Data,Data Science,AI]
+description: Introduction to Data Science
 ---
 # Introduction to Data Science
 Data is the new oil, and just like oil, it needs to be refined before it becomes valuable. That’s where Data Science comes in.
